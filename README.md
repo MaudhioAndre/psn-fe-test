@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# List Page
+1. Login
+2. Dashboard
+3. Create Comment
+
+## bypass login
+**email** : test@gmail.com
+**pass** : 12345678
+
+## third party stack
+1. PrimeReact used in Dashboard page (Data table)
+2. Bootstrap used in create comment page 
+3. Tailwind used in login page
+
+This is a [Next.js](https://nextjs.org) 15 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
