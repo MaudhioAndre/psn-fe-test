@@ -1,6 +1,3 @@
-# PSN FrontEnd Test 
-## by maudhio andre wijaya
-
 # List Page
 1. Login
 2. Dashboard
