@@ -6,7 +6,7 @@ import { redirect } from "next/navigation";
 
 const testUser = {
   id: "1",
-  email: "maudhioa@gmail.com",
+  email: "test@gmail.com",
   password: "12345678",
 };
 
@@ -38,8 +38,8 @@ export async function login(prevState, formData) {
   }
 
   await createSession(testUser.id);
-
-  redirect("/dashboard");
+  return {
+    success: "Login Success"};
 }
 
 export async function logout() {

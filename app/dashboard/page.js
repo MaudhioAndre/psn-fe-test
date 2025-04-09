@@ -1,6 +1,6 @@
 import React from "react";
 
-import TableData from "../components/TableData";
+import TableData from "../components/TableData/TableData";
 import NavigationBar from "../components/NavigationBar";
 
 export default async function page() {
@@ -10,6 +10,7 @@ export default async function page() {
   return (
     <>
       <NavigationBar />
+      
       <TableData comments={comments} />
     </>
   );
