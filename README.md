@@ -1,3 +1,15 @@
+# PSN FrontEnd Test 
+## by maudhio andre wijaya
+
+# List Page
+1. Login
+2. Dashboard
+3. Create Comment
+
+## bypass login
+**email** : test@gmail.com
+**pass** : 12345678
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
